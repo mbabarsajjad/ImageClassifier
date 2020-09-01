@@ -5,4 +5,4 @@ In this project, an image classifier will be trained to recognize different spec
 Pytorch's Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG16) are used in this project.  
 
 ### Pre-Installation
-Python 3.x , Jupyter Notebook, NumPy, Pandas, SciPy, matplotlib, seaborn
+Python 3.x , Jupyter Notebook, PyTorch, NumPy, Pandas, SciPy, matplotlib, seaborn.
