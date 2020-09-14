@@ -1,7 +1,7 @@
 # Deep Learning - Image Classifier
 In this project, an image classifier will be trained to recognize different species of flowers. Also, the project will be converted to a command line Python Application as well.  
 
-The final results (top 5 probabilities) will be displayed as follow:  
+The final results (top 5 probabilities) are displayed as follow:  
 
 ![Test Image 1](probs.png)
 
